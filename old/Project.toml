@@ -1,0 +1,6 @@
+[deps]
+CUTEst = "1b53aba6-35b6-5f92-a507-53c67d53f819"
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+JSOSolvers = "10dff2fc-5484-5881-a0e0-c90441020f8a"
+SolverBenchmark = "581a75fa-a23a-52d0-a590-d6201de2218a"
+SolverTools = "b5612192-2639-5dc1-abfe-fbedd65fab29"
